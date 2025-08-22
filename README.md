@@ -28,6 +28,12 @@ I added `robots.txt` to prevent search engines indexing.
 1. For both front and backend projects you can run tests using `npm run test`. This will run `jest` tests for the Node project and `vitest` and `react-testing-library` for the Vite one.
 2. For E2E tests I used Playwright. You need to have the server running to run these tests: run `npm run dev` on the Node server, and then `cd` into the Vite project and run `npm run test:e2e`.
 
+### 🖱️ To use it
+
+1. Go into http://localhost:5173 (if using default port).
+2. Try searching different things in the search bar, for example: "xiaomi" will bring some xiaomi products. Also try searching for things that will yield no results like "jackets".
+3. You can click any product to go into the detail view. You can also click breadcrumb links to search by category.
+
 ---
 
 ## Some considerations:
