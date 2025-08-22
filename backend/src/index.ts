@@ -9,7 +9,7 @@ const app = express();
 const PORT = process.env.PORT || 3000;
 
 const corsOptions = {
-  origin: ["http://localhost:5173", "https://example.com"],
+  origin: ["http://localhost:5173", "https://meli-challenge-puce.vercel.app/"],
   credentials: true,
 };
 
