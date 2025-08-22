@@ -8,7 +8,7 @@ This is a product listing and detail-view application built as part of a front-e
 
 The project can be seen live in the following link:
 
-[MELI - Front End Challenge](https://example.com)
+[MELI - Front End Challenge](https://meli-challenge-puce.vercel.app/)
 
 The app was deployed using Vercel for the front and Render for the backend. I'm using free plans so expect reduced performance for server response times.
 
