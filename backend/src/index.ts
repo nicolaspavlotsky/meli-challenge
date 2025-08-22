@@ -9,12 +9,12 @@ const app = express();
 const PORT = process.env.PORT || 3000;
 
 const corsOptions = {
-  origin: ["http://localhost:5173", "https://meli-challenge-puce.vercel.app/"],
+  origin: ["http://localhost:5173", "https://meli-challenge-puce.vercel.app"],
   credentials: true,
 };
 
-app.use(cors(corsOptions));
 app.use(express.json());
+app.use(cors(corsOptions));
 
 app.get("/api/products", getProductsList);
 app.get("/api/product", getProductById);
