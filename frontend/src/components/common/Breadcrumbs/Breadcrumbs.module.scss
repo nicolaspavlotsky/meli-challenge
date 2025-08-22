@@ -1,0 +1,27 @@
+@use "sass:color";
+
+.breadcrumbs {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.625rem;
+}
+
+.link {
+  color: var(--color-text-dimmed);
+  text-decoration: none;
+  font-size: 0.875rem;
+
+  &.linkColor {
+    color: var(--color-accent);
+  }
+
+  &:hover {
+    color: #222;
+  }
+}
+
+.icon {
+  color: var(--color-text-dimmed);
+  font-size: 0.75rem;
+}

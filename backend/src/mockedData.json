@@ -1,0 +1,102 @@
+{
+  "products": [
+    {
+      "id": "MLA46532054",
+      "title": "Xiaomi Pocophone Poco X7 Pro 5g Dual Sim 8 Gb RAM 256 Gb ROM-Amarillo",
+      "price": {
+        "currency": "ARS",
+        "amount": 590000,
+        "decimals": 0
+      },
+      "categories": ["Tecnología", "Celulares", "Smartphones"],
+      "condition": "new",
+      "free_shipping": true,
+      "sold_quantity": 59,
+      "description": "Processing: Dimensity 8400-Ultra\nLevel of protection: IP68 resistant to water and dust\nScreen: AMOLED CrystalRes 1.5K 120Hz\nMaterial: Corning Gorilla Glass 7i\nBattery capacity: large battery 6000 mAh\nCharger: 90 W\nCamera: Main camera: 50 MP with OIS\n"
+    },
+    {
+      "id": "MLA44113907",
+      "title": "Celular Samsung Galaxy A16, 256 GB + 8 GB de RAM color gris Dual sim",
+      "price": {
+        "currency": "ARS",
+        "amount": 313999,
+        "decimals": 0
+      },
+      "categories": ["Tecnología", "Celulares", "Smartphones"],
+      "condition": "new",
+      "free_shipping": true,
+      "sold_quantity": 1244,
+      "description": "Teléfono móvil Samsung Galaxy A16, pantalla ancha Super AMOLED de 90 Hz, 256 GB, 8 GB, procesador Helio G99, cámara trasera triple de hasta 50 MP, selfie de 13 MP, batería de 5000 mAh, doble chip, Knox Vault, NFC, Samsung Wallet\nDescubra el nuevo Galaxy A16, el teléfono inteligente que fue diseñado para durar."
+    },
+    {
+      "id": "MLA2215572386",
+      "title": "Samsung Galaxy Z Flip 7 Fe 256gb Black",
+      "price": {
+        "currency": "ARS",
+        "amount": 1826615,
+        "decimals": 40
+      },
+      "categories": ["Tecnología", "Celulares", "Smartphones"],
+      "condition": "new",
+      "free_shipping": true,
+      "sold_quantity": 26,
+      "description": "Samsung Galaxy Z Flip 7 FE 256GB."
+    },
+    {
+      "id": "MLA2197928070",
+      "title": "Motorola Moto G04 Dual Sim 64gb 4gb Ram Verde",
+      "price": {
+        "currency": "ARS",
+        "amount": 209470,
+        "decimals": 99
+      },
+      "categories": ["Tecnología", "Celulares", "Smartphones"],
+      "condition": "new",
+      "free_shipping": false,
+      "sold_quantity": 32,
+      "description": "El Motorola Moto G04 Dual Sim en color verde es un smartphone versátil y potente. Con una pantalla de 6.6 pulgadas, procesador Unisoc T606 de 1.6GHz, 4GB de RAM y 64GB de almacenamiento, ofrece un rendimiento óptimo. Además, cuenta con una batería de 5000 mAh y cámara principal de 16MP para capturar tus momentos con detalle. Con Android 14, disfruta de una experiencia actualizada y personalizada."
+    },
+    {
+      "id": "MLAU3336639529",
+      "title": "Xiaomi Redmi 13x 256gb,8gb Ram,dual Simnuevo Sellado Celeste Celeste",
+      "price": {
+        "currency": "ARS",
+        "amount": 274999,
+        "decimals": 0
+      },
+      "categories": ["Tecnología", "Celulares", "Smartphones"],
+      "condition": "new",
+      "free_shipping": false,
+      "sold_quantity": 62,
+      "description": "Presentamos el Xiaomi Redmi 13X, un smartphone diseñado para quienes buscan rendimiento y calidad en un solo dispositivo. Con su amplia memoria interna de 256 GB y 8 GB de RAM, podrás almacenar todas tus aplicaciones, fotos y videos sin preocuparte por el espacio, mientras que su procesador MediaTek Helio G91 Ultra a 2 GHz garantiza una experiencia fluida, incluso en juegos exigentes."
+    },
+    {
+      "id": "MLA2248721904",
+      "title": "Macbook Air De 13 Pulgadas Chip M4 256 gb Ssd Azul Cielo Apple",
+      "price": {
+        "currency": "USD",
+        "amount": 2199,
+        "decimals": 0
+      },
+      "categories": ["Tecnología", "Computadoras", "Portátiles"],
+      "condition": "new",
+      "free_shipping": true,
+      "sold_quantity": 33,
+      "description": "El MacBook Air de 13 pulgadas con chip M4 es la combinación perfecta de potencia, portabilidad y estilo. Equipado con el innovador chip M4 de Apple, este modelo ofrece un rendimiento excepcional, garantizando una experiencia fluida incluso con múltiples aplicaciones abiertas. Su almacenamiento SSD de 256 GB proporciona arranques rápidos y un acceso eficiente a tus archivos y programas, mientras que su pantalla Retina de 13 pulgadas ofrece una calidad de imagen nítida y vibrante para una experiencia visual inmersiva."
+    },
+    {
+      "id": "MLA26804783",
+      "title": "Tablet Xiaomi Redmi Pad Se 256gb Gray 8 Ram Color Graphite Gray",
+      "price": {
+        "currency": "ARS",
+        "amount": 326731,
+        "decimals": 0
+      },
+      "categories": ["Tecnología", "Tablets y accesorios", "Tablets"],
+      "condition": "new",
+      "free_shipping": false,
+      "sold_quantity": 1138,
+      "description": "La Tablet Redmi Pad SE de 8 GB y 256 GB en color Graphite Gray es la elección perfecta para aquellos que buscan un dispositivo potente y versátil. Con una capacidad de batería de 8000 mAh, podrás disfrutar de largas horas de uso sin preocuparte por quedarte sin energía."
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+@use "@/styles/App.scss" as vars;
+
+.header {
+  height: var(--header-height);
+  background-color: var(--color-app);
+}
+
+/* Tried to stick to MELI real logo sizes */
+.logo {
+  height: 34px;
+  width: 134px;
+}
+
+.wrapper {
+  display: flex;
+  align-items: center;
+  height: 100%;
+  gap: 2.5rem;
+}
+
+.search_nav {
+  flex: 1;
+  height: 100%;
+}
+
+@media (max-width: vars.$breakpoint-sm) {
+  .logo {
+    width: 50px;
+  }
+
+  .wrapper {
+    gap: 1rem;
+  }
+}

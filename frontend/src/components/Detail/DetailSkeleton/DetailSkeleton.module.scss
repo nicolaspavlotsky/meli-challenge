@@ -1,0 +1,18 @@
+.skeleton {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.top {
+  display: grid;
+  grid-template-columns: 1fr 400px;
+  gap: 1rem;
+}
+
+@media (max-width: 1064px) {
+  .top {
+    display: flex;
+    flex-direction: column;
+  }
+}
